@@ -1,0 +1,6 @@
+{
+  "autocomplete.namingConvention": "camelCase",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
